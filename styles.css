@@ -2,8 +2,8 @@
 	width: 300px;
 	padding: 50px;
 	background-color: rgb(173, 216, 230);
-	border: 15px solid #5b47f5;
-	box-sizing: content-box;
+	border: 15px solid rgb(0, 0, 255);
+	/* box-sizing: content-box; */
 	margin: 20px
 	
 	
